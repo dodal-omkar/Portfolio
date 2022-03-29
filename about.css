@@ -1,0 +1,31 @@
+#txt{
+    margin: auto;
+    /*border: 2px solid grey;*/
+    background-color: bisque;
+    text-decoration-style: wavy;
+    text-decoration: wavy;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+    font-style: oblique;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    font-size: larger;
+    align-content: center;
+    font-weight: bolder;
+    padding: 5px;
+    text-align: center;
+}
+#img{
+    margin: auto;
+    /*border: 2px dashed black;*/
+    padding: 10px;
+    width: 2px;
+    height: 4px;
+    padding-left: 40%;
+}
+body{
+background-image: linear-gradient(darkgrey,ghostwhite);
+}
+#hobi{
+     display: inline;
+     font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+     font-size: larger;
+}

@@ -1,0 +1,23 @@
+#list{
+    color: white;
+    text-align: left;
+    text-decoration: none;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-weight: bolder;
+    padding: 30px;
+    margin: auto;
+    list-style: none;
+    font-size: larger;
+}
+body{
+    background-color: grey;
+}
+h1{
+    font-size: xx-large;
+    color: white;
+    text-align: center;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    font-weight: bolder;
+    padding: auto;
+    text-shadow: 5px 2px 2px rgb(199, 4, 4);
+}

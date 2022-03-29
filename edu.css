@@ -1,0 +1,41 @@
+#tbl{
+    align-items: center;
+    border-collapse: collapse;
+    margin: auto;
+    font-size: 1.2em;
+    min-width: 1000px;
+    border-radius: 5px 5px 0 0;
+    overflow: hidden;
+    box-shadow: 0 0 20px ghostwhite;
+    padding: 10px 10px 10px 10px;
+    table-layout: auto;
+}
+th{
+    background-color: darkviolet;
+    color: white;
+    text-align: center;
+    padding: 25px 25px;
+    font-weight: bold;
+    font-size: x-large;
+}
+tbody tr td{
+    margin: auto;
+    padding: 20px;
+}
+tbody tr{
+    border-bottom: 1px solid violet;
+    text-align: center;
+}
+tbody tr:nth-of-type(even){
+    background-color: lavenderblush;
+}
+tbody tr:last-of-type{
+    border-bottom: 2px solid violet;
+}
+h1{
+    text-align: center;
+    font-family: Arial, Helvetica, sans-serif;
+    font-weight: bolder;
+    font-size: xx-large;
+    color: maroon;
+}
